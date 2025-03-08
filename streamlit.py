@@ -6,7 +6,7 @@ def read_text_file(file_path):
         return file.read()
 
 def main():
-    st.title("My Text Viewer App")
+    st.title("AI Report")
 
     # Add options for navigation in the sidebar
     nav_options = ["Advanced Analytics","Analyst Picks","Bizzare Stats",
